@@ -249,7 +249,7 @@ Custom error types already existed but were enhanced with better documentation:
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/grok-cli.git
+git clone https://github.com/jsader79/grok-cli.git
 cd grok-cli
 
 # Install
@@ -388,15 +388,15 @@ This fork maintains the original MIT license while adding significant value.
 
 - **Original Project:** [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli)
 - **Original Authors:** superagent-ai team
-- **Fork Improvements:** [Your Name]
+- **Fork Improvements:** John Sader (jsader79)
 - **Inspiration:** Code review suggestions and best practices
 
 ---
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/grok-cli/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YOUR_USERNAME/grok-cli/discussions)
+- **Issues:** [GitHub Issues](https://github.com/jsader79/grok-cli/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/jsader79/grok-cli/discussions)
 - **Original Repo:** [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli)
 
 ---

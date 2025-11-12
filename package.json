@@ -1,7 +1,7 @@
 {
-  "name": "@vibe-kit/grok-cli",
-  "version": "0.0.33",
-  "description": "An open-source AI agent that brings the power of Grok directly into your terminal.",
+  "name": "@jsader79/grok-cli",
+  "version": "0.1.0",
+  "description": "An enhanced open-source AI agent that brings the power of Grok directly into your terminal - with TypeScript strict mode, comprehensive tests, and security improvements",
   "type": "module",
   "main": "dist/index.js",
   "exports": {
@@ -13,6 +13,14 @@
   "bin": {
     "grok": "dist/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsader79/grok-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsader79/grok-cli/issues"
+  },
+  "homepage": "https://github.com/jsader79/grok-cli#readme",
   "scripts": {
     "build": "tsc",
     "build:bun": "bun run tsc",
@@ -35,7 +43,7 @@
     "grok",
     "ai"
   ],
-  "author": "Your Name",
+  "author": "John Sader <jsader79@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.17.0",
